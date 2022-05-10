@@ -1,2 +1,2 @@
 
-The localhost link for the backend page is available here.
+The backend details are available here as csv file
